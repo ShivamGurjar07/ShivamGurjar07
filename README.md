@@ -53,4 +53,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamgurjar07&show_icons=true&theme=radical" alt="shivam" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddharthkhare&" alt="thesiddharthkhare" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=shivamgurjar07&theme=radical&hide_border=true" alt="shivam" /></p>
+
