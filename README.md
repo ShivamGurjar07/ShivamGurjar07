@@ -45,12 +45,12 @@ Here are some ideas to get you started:
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=50&id=kg46nzoJrmTR&format=png" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiddharthkhare&show_icons=true&locale=en&layout=compact" alt="thesiddharthkhare" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgurjar07&layout=compact&langs_count=10&theme=radical" alt="shivam" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgurjar07&layout=compact&langs_count=10&theme=radical" alt="thesiddharthkhare" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamgurjar07&show_icons=true&theme=radical" alt="shivam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesiddharthkhare&show_icons=true&locale=en" alt="thesiddharthkhare" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddharthkhare&" alt="thesiddharthkhare" /></p>
