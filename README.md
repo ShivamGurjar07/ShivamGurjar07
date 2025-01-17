@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo](https://github.com/thesiddharthkhare/thesiddharthkhare/blob/main/Github%20banner.png)
+![logo](https://github.com/ShivamGurjar07/ShivamGurjar07/blob/main/perprofile.jpg)
 
 <h1 align="center">Hi 👋, I'm Siddharth Khare</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
