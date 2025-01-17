@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <!-- https://cdn-icons-png.flaticon.com/128/1126/1126012.png -->
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" alt="react" width="40" height="40"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=50&id=egQrEphjrirz&format=png" alt="react" width="40" height="40"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="react" width="40" height="40"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" alt="react" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiddharthkhare&show_icons=true&locale=en&layout=compact" alt="thesiddharthkhare" /></p>
