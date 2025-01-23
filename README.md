@@ -1,4 +1,3 @@
-## Hi there 👋
 ## My PortFolio: [https://gilded-conkies-ff9ad3.netlify.app/ ](https://jazzy-fudge-924673.netlify.app/)
 <!--
 **ShivamGurjar07/ShivamGurjar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
 ![logo](https://github.com/ShivamGurjar07/ShivamGurjar07/blob/main/perprofile.jpg)
 
-<h1 align="center">Hi 👋, I'm Shivam Gurjar</h1>
+<h1 align="center"> Shivam Gurjar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
